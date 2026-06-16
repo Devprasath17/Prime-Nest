@@ -50,7 +50,7 @@ export const properties: Property[] = [
       { icon: 'Sparkles', name: 'Wellness Spa', description: 'Steam, sauna & gym' },
       { icon: 'Shield', name: '24/7 Concierge', description: 'Dedicated estate management' },
       { icon: 'Film', name: 'Screening Room', description: 'Dolby Atmos equipped' },
-      { icon: 'Car', name: 'Private Porte-Cochere', name2: 'Cochere', description: 'Attended automated parking' },
+      { icon: 'Car', name: 'Private Porte-Cochere', description: 'Attended automated parking' },
     ],
     featured: true,
     agentId: 'julian-vance',
